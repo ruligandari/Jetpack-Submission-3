@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Watch Time</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="poster">Poster</string>
+    <string name="overview">Overview</string>
+    <string name="tab_movie">MOVIES</string>
+    <string name="tab_tv_show">TV SHOWS</string>
+    <string name="my_favorites">My Favorite</string>
+    <string name="credit">by Ruli Gandari</string>
+</resources>
